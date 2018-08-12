@@ -1,12 +1,13 @@
-[
-  
+{
+    "technical texts": [
       { "id": 1, "title": "Analysis of the Fire Protection System (PL-&gt;EN)", "href": "./portfoliothe Fire Protection System.rtf" },
       { "id": 2, "title": "Medical Software - Administrator Guide (EN-&gt;PL)", "href": "./portfolio/Medical Software - Administrator Guide.rtf" },
-      { "id": 3, "title": "ERP Project Scope (PL-&gt;EN)", "href": "./portfolio/ERP Project Scope.rtf" },
- 
-  
+      { "id": 3, "title": "ERP Project Scope (PL-&gt;EN)", "href": "./portfolio/ERP Project Scope.rtf" }
+    ],
+    "law texts": [
       { "id": 1, "title": "Licence Agreement with a Publishing House (EN-&gt;PL)", "href": "./portfolio/Licence Agreement with a Publishing House.rtf"},
       { "id": 2, "title": "The Workers Guarantee Package (EN-&gt;PL)", "href": "./portfolio/The Workers Guarantee Package.rtf" }
-
+    ]
   
-]
+  }
+  
