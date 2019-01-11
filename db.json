@@ -1,7 +1,7 @@
 {
   "pytania": [
     {
-      "tekst_pytania": "jakies",
+      "tekst_pytania": "jakies?",
       "odpowiedzi": [
         "a",
         "b",
@@ -13,6 +13,7 @@
       "poziom": "podst"
     },
     {
+      "tekst_pytania": "kies?",
       "odpowiedzi": [
         "a",
         "b",
@@ -24,6 +25,7 @@
       "poziom": "rozsz"
     },
     {
+      "tekst_pytania": "o?",
       "odpowiedzi": [
         "a",
         "b",
@@ -35,6 +37,7 @@
       "poziom": "rozsz"
     },
     {
+      "tekst_pytania": "ale?",
       "odpowiedzi": [
         "a",
         "b",
