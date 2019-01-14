@@ -15,9 +15,9 @@
     {
       "tekst_pytania": "kies?",
       "odpowiedzi": [
-        "a",
-        "b",
-        "c"
+        "ab",
+        "bc",
+        "cd"
       ],
       "prawidłowa": "a",
       "wybrana_odpowiedź": "",
@@ -27,9 +27,9 @@
     {
       "tekst_pytania": "o?",
       "odpowiedzi": [
-        "a",
-        "b",
-        "c"
+        "ae",
+        "bf",
+        "cg"
       ],
       "prawidłowa_odpowiedź": "b",
       "wybrana_odpowiedź": "",
@@ -39,9 +39,9 @@
     {
       "tekst_pytania": "ale?",
       "odpowiedzi": [
-        "a",
-        "b",
-        "c"
+        "aq",
+        "bw",
+        "ce"
       ],
       "prawidłowa": "c",
       "wybrana_odpowiedź": "",
