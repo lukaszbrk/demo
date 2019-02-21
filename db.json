@@ -95,5 +95,25 @@
          "Id":"BHRGBR343*&(DfG",
          "Question_type":"gapfill"
       }
+      
+            {  
+         "Text":"I wish he ____ more time.",
+         "Grammar_item":"present_simple",
+         "Level":"advanced",
+         "Structure_type":"indicative",
+         "Answers":{  
+            "correct":"had",
+            "incorrect":[  
+               "have",
+               "had"
+            ]
+         },
+         "Source":"",
+         "Context":"none",
+         "Commentary":"brak",
+         "Reviewed":"y",
+         "Id":"BHRG433",
+         "Question_type":"gapfill"
+      }
    ]
 }
